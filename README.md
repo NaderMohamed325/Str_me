@@ -7,7 +7,7 @@ This library provides a set of functions for manipulating strings in C. It inclu
 - [Functions](#functions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Functions
 
